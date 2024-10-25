@@ -1,0 +1,8 @@
+Git clone https://github.com/revathy12345/git_commands.git
+
+Git and github
+
+alternatives: AWS,bitbucket,gitlab
+git add /// add the file to the staging alternatives
+git commit -m "message" /// to commit the changes in the tracked file
+git push origin main /// pushing the file to the main branch in github repository
